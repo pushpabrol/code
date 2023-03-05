@@ -1116,7 +1116,7 @@
 .auth0-lock.auth0-lock .auth0-lock-header-bg .auth0-lock-header-bg-solid {
   height: 100%;
   opacity: 0.08;
-  background-color: rgb(234, 83, 35);
+  background-color:#188038;
 }
 .auth0-lock.auth0-lock .auth0-lock-header-welcome {
   font-size: 18px;
